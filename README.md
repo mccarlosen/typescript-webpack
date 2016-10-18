@@ -1,4 +1,4 @@
-* Basic typescript + webpack
+# Basic typescript + webpack
 
-** Run example
+## Run example
 `npm start`
